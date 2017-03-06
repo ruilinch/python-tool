@@ -1,7 +1,7 @@
+## Read numbers in a Chinese fashion
+## Inspired by WeiboYi interview. 
 
 import string
-
-## jiaru wan he yi
 
 def convertShortNumToCHN(numArray):
     global dict_num_chn, dict_digit_chn
